@@ -13,8 +13,6 @@ PWNED ['WebServers [✔]', 'DataBase [✔]', 'Deployed bandwidth[✔]'] of Nephr
 
 PWNED ['WebServers [✔]', 'DataBase [✔]', 'Deployed bandwidth[✔]'] of B-zone.ro
 
-Daemon | ['python', 'cracking']
-
 #### Daemon | ['python', 'cracking']
 
 ```python 
