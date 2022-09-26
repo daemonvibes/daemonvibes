@@ -4,9 +4,13 @@
 
 ### Hits (view):view
 PWNED All Game Servers [✔] + ['WebServers [✔]', 'DataBase [✔]', 'Deployed bandwidth[✔]'] of Zeroping.ro
+
 PWNED ['WebServers [✔]', 'DataBase [✔]', 'Deployed bandwidth[✔]'] of Bugged.ro
+
 PWNED ['WebServers [✔]', 'DataBase [✔]', 'Deployed bandwidth[✔]'] of xenon.minecraft-romania.ro
+
 PWNED ['WebServers [✔]', 'DataBase [✔]', 'Deployed bandwidth[✔]'] of Nephrite.ro
+
 PWNED ['WebServers [✔]', 'DataBase [✔]', 'Deployed bandwidth[✔]'] of B-zone.ro
 
 Daemon | ['python', 'cracking']
