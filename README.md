@@ -4,11 +4,16 @@
 
 
 ```python
+<<<<<<< HEAD
 main = ['python', 'cracking']
 
 infrastructure_obj = [
     'ALL Game Servers', 'Website downed', 'DataBase downed'
  ]
+=======
+{
+main = ['python', 'cracking']
+>>>>>>> df0a30273051c8e4a08c4355cc242b148c096f9a
 
 infrastructure = [
     'ALL Dedicated Hosts', 'ALL Web Hosts', 'ALL deployed VPS',
