@@ -4,7 +4,7 @@
 daemon
 ```python
 {
-main = ['python', 'cracking'];
+main = ['python', 'cracking']
 
 infrastructure = [
     'ALL Dedicated Hosts', 'ALL Web Hosts', 'ALL deployed VPS',
