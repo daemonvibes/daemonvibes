@@ -2,26 +2,33 @@
 
 # _Description:
 
+### Hits (view):view
+PWNED All Game Servers [✔] + ['WebServers [✔]', 'DataBase [✔]', 'Deployed bandwidth[✔]'] of Zeroping.ro
+PWNED ['WebServers [✔]', 'DataBase [✔]', 'Deployed bandwidth[✔]'] of Bugged.ro
+PWNED ['WebServers [✔]', 'DataBase [✔]', 'Deployed bandwidth[✔]'] of xenon.minecraft-romania.ro
+PWNED ['WebServers [✔]', 'DataBase [✔]', 'Deployed bandwidth[✔]'] of Nephrite.ro
+PWNED ['WebServers [✔]', 'DataBase [✔]', 'Deployed bandwidth[✔]'] of B-zone.ro
+
+Daemon | ['python', 'cracking']
+
+#### Daemon | ['python', 'cracking']
 
 ```python 
 infrastructure_obj = [
-    'Website downed', 'DataBase downed'
+    'WebServers [✔]', 'DataBase [✔]', 'Deployed bandwidth[✔]'
  ]
 
 main = ['python', 'cracking']
-infrastructure = [
-    'ALL Dedicated Hosts', 'ALL Web Hosts', 'ALL deployed VPS',
-    'ALL network bandwidth'
- ]
-infra_main = f"['All Game servers'] + {infrastructure_obj}"
 
-mode = input('Targets (view):')
+infra_main = f"All Game Servers [✔] + {infrastructure_obj}"
 
-claim_attack = print(f'{infra_main} of Zeroping.ro')
-claim_attack2= print(f'{infrastructure_obj} of Bugged.ro')
-claim_attack3 = print(f'{infrastructure_obj} of xenon.minecraft-romania.ro')
-claim_attack4 = print(f'{infrastructure_obj} of Nephrite.ro')
-claim_attack5 = print(f'{infrastructure_obj} of B-zone.ro\n')
+mode = input('Hits (view):')
+
+claim_attack = print(f'PWNED {infra_main} of Zeroping.ro')
+claim_attack2= print(f'PWNED {infrastructure_obj} of Bugged.ro')
+claim_attack3 = print(f'PWNED {infrastructure_obj} of xenon.minecraft-romania.ro')
+claim_attack4 = print(f'PWNED {infrastructure_obj} of Nephrite.ro')
+claim_attack5 = print(f'PWNED {infrastructure_obj} of B-zone.ro\n')
 desc = print(f'Daemon | {main}')
 
 def start():
@@ -31,22 +38,8 @@ def start():
     else:
         exit(start)
 ```
-## Output code
-### Targets (view):view
-['All Game servers'] + ['Website downed', 'DataBase downed'] of Zeroping.ro
 
-['Website downed', 'DataBase downed'] of Bugged.ro
-
-['Website downed', 'DataBase downed'] of xenon.minecraft-romania.ro
-
-['Website downed', 'DataBase downed'] of Nephrite.ro
-
-['Website downed', 'DataBase downed'] of B-zone.ro
-
-#### Daemon | ['python', 'cracking']
-
-### Process finished with exit code 0
-## Infos
+### Infos
 
  - [Website](https://daemonzz.xyz)
 
