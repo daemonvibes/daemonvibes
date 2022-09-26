@@ -2,6 +2,18 @@
 
 # _Description:
 
+### Hits (view):view
+['All Game servers'] + ['Website downed', 'DataBase downed'] of Zeroping.ro
+
+['Website downed', 'DataBase downed'] of Bugged.ro
+
+['Website downed', 'DataBase downed'] of xenon.minecraft-romania.ro
+
+['Website downed', 'DataBase downed'] of Nephrite.ro
+
+['Website downed', 'DataBase downed'] of B-zone.ro
+
+#### Daemon | ['python', 'cracking']
 
 ```python 
 infrastructure_obj = [
@@ -15,7 +27,7 @@ infrastructure = [
  ]
 infra_main = f"['All Game servers'] + {infrastructure_obj}"
 
-mode = input('Targets (view):')
+mode = input('Hits (view):')
 
 claim_attack = print(f'{infra_main} of Zeroping.ro')
 claim_attack2= print(f'{infrastructure_obj} of Bugged.ro')
@@ -31,22 +43,8 @@ def start():
     else:
         exit(start)
 ```
-## Output code
-### Targets (view):view
-['All Game servers'] + ['Website downed', 'DataBase downed'] of Zeroping.ro
 
-['Website downed', 'DataBase downed'] of Bugged.ro
-
-['Website downed', 'DataBase downed'] of xenon.minecraft-romania.ro
-
-['Website downed', 'DataBase downed'] of Nephrite.ro
-
-['Website downed', 'DataBase downed'] of B-zone.ro
-
-#### Daemon | ['python', 'cracking']
-
-### Process finished with exit code 0
-## Infos
+### Infos
 
  - [Website](https://daemonzz.xyz)
 
