@@ -2,7 +2,7 @@
 
 # _Description:
 
-[Hits](https://daemonzz.xyz/assets/hits.png)
+![Hits](https://daemonzz.xyz/assets/hits.png)
 
 ### Infos
 
